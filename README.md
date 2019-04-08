@@ -1,8 +1,8 @@
 # Red_Badge_Project
 
-A project done as part of ElevenFifty's python curriculum.
-Utilizes Flask and Angular
-Calls on PokeAPI (https://pokeapi.co/)
+A project done as part of ElevenFifty's python curriculum. \n
+Utilizes Flask and Angular \n
+Calls on PokeAPI (https://pokeapi.co/) \n
 
 Users will be able to:
   - view pokemon
