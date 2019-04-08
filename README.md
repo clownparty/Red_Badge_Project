@@ -1,8 +1,11 @@
 # Red_Badge_Project
 
-A project done as part of ElevenFifty's python curriculum. \n
-Utilizes Flask and Angular \n
-Calls on PokeAPI (https://pokeapi.co/) \n
+A project done as part of ElevenFifty's python curriculum. 
+
+Utilizes Flask and Angular; related repos: (https://github.com/clownparty/Angular_Red_Badge_ and https://github.com/clownparty/Flask_Red_Badge_API).
+
+Calls on PokeAPI (https://pokeapi.co/). 
+
 
 Users will be able to:
   - view pokemon
