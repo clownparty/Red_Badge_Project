@@ -2,7 +2,7 @@
 
 A project done as part of ElevenFifty's python curriculum. 
 
-Utilizes Angular and Flask; related repos: (https://github.com/clownparty/Angular_Red_Badge_ and https://github.com/clownparty/Flask_Red_Badge_API).
+Utilizes Angular and Flask; related repos: (https://github.com/clownparty/Clown_Party_Frontend and https://github.com/clownparty/ClownParty_backend_Flask).
 
 Calls on PokeAPI (https://pokeapi.co/). 
 
