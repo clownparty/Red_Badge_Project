@@ -3,7 +3,6 @@
 A project done as part of ElevenFifty's python curriculum.
 Utilizes Flask and Angular
 Calls on PokeAPI (https://pokeapi.co/)
-Creates API tables of users and pokemon teams
 
 Users will be able to:
   - view pokemon
